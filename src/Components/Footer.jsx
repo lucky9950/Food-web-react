@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <>
             <footer>
-                © 2023 Ranjit Bobade. All rights reserved
+                © 2023 Lakhan Bichukale. All rights reserved
             </footer>
         </>
     )
